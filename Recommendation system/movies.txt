@@ -1,0 +1,9 @@
+Action,John Wick
+Action,Mad Max
+Action,Mission Impossible
+Comedy,The Mask
+Comedy,Home Alone
+Comedy,Mr. Bean
+Sci-Fi,Interstellar
+Sci-Fi,Avatar
+Sci-Fi,The Martian
